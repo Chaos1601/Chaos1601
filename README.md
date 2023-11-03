@@ -7,7 +7,7 @@ I am currently at the Manitoba Institude of Trades and Technology learning how t
 
 Outside of school, I am a 4th Degree Master in Tae Kwon Do with my own branch where I teach my students about the martial art I have loved for years.
 
-I have coding experiance with HTML, CSS, JavaScript and a bit of knowledge in Java.
+I have coding experience with HTML, CSS, JavaScript and a bit of knowledge in Java.
 
 ##
 
