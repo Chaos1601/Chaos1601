@@ -18,3 +18,5 @@ I have coding experiance with HTML, CSS, JavaScript and a bit of knowledge in Ja
 <img src="https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=coffeescript&logoColor=white&color=2aa889"/>&nbsp;
 
 ##
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaos1601&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
