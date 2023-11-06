@@ -1,4 +1,4 @@
-![](./Banner.png)
+![](./banner.jpg)
 
 ### About Me
 
